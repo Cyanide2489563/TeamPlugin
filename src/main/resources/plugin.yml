@@ -1,0 +1,10 @@
+name: TeamPlugin
+version: @version@
+main: team.dungeoncraft.teamplugin.TeamPlugin
+api-version: "1.13"
+load: STARTUP
+authors: [Cyanide]
+description: 隊伍插件
+commands:
+  team:
+
